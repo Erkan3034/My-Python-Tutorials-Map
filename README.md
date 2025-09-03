@@ -73,7 +73,7 @@
 |------|----------|-----------|------------------|
 | **NumPy** | Numerical computing, arrays | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Scientific computing, array operations |
 | **Pandas** | Data manipulation, DataFrames | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Data analysis, data cleaning |
-| **Matplotlib** | Data visualization, plotting | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Chart creation, data visualization |
+| **Matplotlib** | Data visualization, plotting | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyJupyterNotebookNotes/MATPLOTLIB/Matplotlib) | Chart creation, data visualization |
 
 ### 🗄️ **Veritabanı İşlemleri**
 
@@ -81,6 +81,28 @@
 |------|----------|-----------|------------------|
 | **SQLite** | Database operations, CRUD | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Database design, SQL operations |
 | **SQL Sorguları** | SELECT, INSERT, UPDATE, DELETE | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Database querying, data persistence |
+
+### 🖥️ **GUI Geliştirme**
+
+| Konu | Açıklama | Repo/Link | Edinilen Deneyim |
+|------|----------|-----------|------------------|
+| **PyQt5** | Desktop GUI applications | [PyQt5 Repo](https://github.com/Erkan3034/PyQt5-Projects) | Cross-platform desktop apps, event handling |
+
+### 🌐 **Web Geliştirme Frameworks**
+
+| Konu | Açıklama | Repo/Link | Edinilen Deneyim |
+|------|----------|-----------|------------------|
+| **Flask** | Micro web framework | [Flask Repo](https://github.com/Erkan3034/Flask-Projects) | RESTful APIs, web applications |
+| **Flask-ORM** | Object Relational Mapping | [Flask-ORM Repo](https://github.com/Erkan3034/Flask-ORM-Projects) | Database modeling, SQLAlchemy integration |
+| **Django** | Full-stack web framework | [Django Repo](https://github.com/Erkan3034/Django-Projects) | MVC architecture, admin panel, ORM |
+
+### 🕷️ **Web Scraping ve Automation**
+
+| Konu | Açıklama | Repo/Link | Edinilen Deneyim |
+|------|----------|-----------|------------------|
+| **Selenium** | Web browser automation | [Selenium Repo](https://github.com/Erkan3034/Selenium-Projects) | Automated testing, web scraping |
+| **Scrapy** | Web scraping framework | [Scrapy Repo](https://github.com/Erkan3034/Scrapy-Projects) | Large-scale web crawling, data extraction |
+| **BeautifulSoup4** | HTML/XML parsing | [BeautifulSoup Repo](https://github.com/Erkan3034/BeautifulSoup-Projects) | Web scraping, HTML parsing |
 
 ---
 
@@ -92,13 +114,31 @@
 - **Repo:** [Ana Python Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
 - **Öğrenilen:** Data cleaning, statistical analysis, data visualization
 
-### 2. **Nesne Yönelimli Programlama Projeleri**
+### 2. **Web Geliştirme Projeleri**
+- **Açıklama:** Flask ve Django ile full-stack web uygulamaları
+- **Teknolojiler:** Python, Flask, Django, Flask-ORM, SQLAlchemy
+- **Repo:** [Flask Repo](https://github.com/Erkan3034/Flask-Projects) | [Django Repo](https://github.com/Erkan3034/Django-Projects)
+- **Öğrenilen:** RESTful APIs, MVC architecture, database integration
+
+### 3. **GUI Desktop Uygulamaları**
+- **Açıklama:** PyQt5 ile cross-platform masaüstü uygulamaları
+- **Teknolojiler:** Python, PyQt5, Qt Designer
+- **Repo:** [PyQt5 Repo](https://github.com/Erkan3034/PyQt5-Projects)
+- **Öğrenilen:** Event-driven programming, UI design, desktop app development
+
+### 4. **Web Scraping ve Automation Projeleri**
+- **Açıklama:** Selenium, Scrapy ve BeautifulSoup ile web scraping
+- **Teknolojiler:** Python, Selenium, Scrapy, BeautifulSoup4, requests
+- **Repo:** [Selenium Repo](https://github.com/Erkan3034/Selenium-Projects) | [Scrapy Repo](https://github.com/Erkan3034/Scrapy-Projects)
+- **Öğrenilen:** Web automation, data extraction, browser control
+
+### 5. **Nesne Yönelimli Programlama Projeleri**
 - **Açıklama:** Sınıf tasarımı ve OOP prensipleri uygulaması
 - **Teknolojiler:** Python OOP
 - **Repo:** [Ana Python Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
 - **Öğrenilen:** Class design, inheritance, polymorphism
 
-### 3. **Veritabanı Yönetim Sistemi**
+### 6. **Veritabanı Yönetim Sistemi**
 - **Açıklama:** SQLite ile veritabanı tasarımı ve yönetimi
 - **Teknolojiler:** Python, SQLite
 - **Repo:** [Ana Python Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
@@ -116,6 +156,13 @@
 | **Pandas** | Data manipulation | ⭐⭐⭐⭐ |
 | **Matplotlib** | Data visualization | ⭐⭐⭐⭐ |
 | **SQLite** | Database operations | ⭐⭐⭐ |
+| **PyQt5** | GUI development | ⭐⭐⭐⭐ |
+| **Flask** | Web framework | ⭐⭐⭐⭐ |
+| **Django** | Full-stack framework | ⭐⭐⭐⭐ |
+| **Flask-ORM** | Database ORM | ⭐⭐⭐ |
+| **Selenium** | Web automation | ⭐⭐⭐⭐ |
+| **Scrapy** | Web scraping | ⭐⭐⭐ |
+| **BeautifulSoup4** | HTML parsing | ⭐⭐⭐⭐ |
 
 ---
 
@@ -127,6 +174,11 @@
 - ✅ **Hata Yönetimi:** Robust ve güvenilir aplikasyonlar geliştirme
 - ✅ **Veri Analizi:** Data-driven insights ve decision making
 - ✅ **Database Design:** Structured data storage ve retrieval
+- ✅ **Web Development:** Full-stack web applications (Flask, Django)
+- ✅ **GUI Development:** Cross-platform desktop applications (PyQt5)
+- ✅ **Web Scraping:** Automated data extraction ve web automation
+- ✅ **API Development:** RESTful services ve microservices
+- ✅ **Test Automation:** Selenium-based testing frameworks
 - ✅ **Code Organization:** Modular ve clean code principles
 
 ---
