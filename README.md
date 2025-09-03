@@ -17,70 +17,70 @@
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Python Temelleri** | Değişkenler, veri tipleri, operatörler | [MyPythonNotesPart1.ipynb](./MyPythonNotesPart1.ipynb) | Python syntax'ı, temel programlama kavramları |
-| **Koşullu İfadeler** | if-elif-else yapıları, mantıksal operatörler | [MyPythonNotesPart2(Methods-Functions).ipynb](./MyPythonNotesPart2(Methods-Functions).ipynb) | Karar verme mekanizmaları, akış kontrolü |
-| **Döngüler** | for, while döngüleri, döngü kontrolü | [MyPythonTutorialsPart3(MODUL).ipynb](./MyPythonTutorialsPart3(MODUL).ipynb) | İterasyonlar, döngü optimizasyonu |
+| **Python Temelleri** | Değişkenler, veri tipleri, operatörler | [MyPythonNotesPart1.ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart1.ipynb) | Python syntax'ı, temel programlama kavramları |
+| **Koşullu İfadeler** | if-elif-else yapıları, mantıksal operatörler | [MyPythonNotesPart2(Methods-Functions).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart2(Methods-Functions).ipynb) | Karar verme mekanizmaları, akış kontrolü |
+| **Döngüler** | for, while döngüleri, döngü kontrolü | [MyPythonTutorialsPart3(MODUL).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonTutorialsPart3(MODUL).ipynb) | İterasyonlar, döngü optimizasyonu |
 
 ### 📊 **Veri Yapıları**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Listeler** | Liste oluşturma, manipülasyon, metotlar | [MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb](./MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Dinamik veri saklama, liste işlemleri |
-| **Sözlükler** | Dictionary yapısı, key-value çiftleri | [MATPLOTLIB](./MATPLOTLIB/) | Anahtar-değer ilişkileri, veri organizasyonu |
-| **Tuple ve Set** | Değişmez veri yapıları, küme işlemleri | [MyPythonNotesPart5](./MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Immutable yapılar, matematiksel küme işlemleri |
+| **Listeler** | Liste oluşturma, manipülasyon, metotlar | [MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Dinamik veri saklama, liste işlemleri |
+| **Sözlükler** | Dictionary yapısı, key-value çiftleri | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Anahtar-değer ilişkileri, veri organizasyonu |
+| **Tuple ve Set** | Değişmez veri yapıları, küme işlemleri | [MyPythonNotesPart5](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Immutable yapılar, matematiksel küme işlemleri |
 
 ### 🔧 **Fonksiyonlar ve Modüller**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Fonksiyon Tanımlama** | def, parametreler, return | [MyPythonNotesPart2(Methods-Functions).ipynb](./MyPythonNotesPart2(Methods-Functions).ipynb) | Kod modülaritesi, fonksiyonel programlama |
-| **Lambda Fonksiyonları** | Anonim fonksiyonlar, map, filter | [MyPythonTutorialsPart4(OOP)](./MyPythonTutorialsPart4(OOP)/) | Functional programming, higher-order functions |
-| **Modül Kullanımı** | import, from import, custom modüller | [MyPythonTutorialsPart3(MODUL).ipynb](./MyPythonTutorialsPart3(MODUL).ipynb) | Kod organizasyonu, kütüphane kullanımı |
+| **Fonksiyon Tanımlama** | def, parametreler, return | [MyPythonNotesPart2(Methods-Functions).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart2(Methods-Functions).ipynb) | Kod modülaritesi, fonksiyonel programlama |
+| **Lambda Fonksiyonları** | Anonim fonksiyonlar, map, filter | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Functional programming, higher-order functions |
+| **Modül Kullanımı** | import, from import, custom modüller | [MyPythonTutorialsPart3(MODUL).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonTutorialsPart3(MODUL).ipynb) | Kod organizasyonu, kütüphane kullanımı |
 
 ### 🎭 **Nesne Yönelimli Programlama (OOP)**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Sınıf ve Nesne** | class, __init__, instance variables | [MyPythonTutorialsPart4(OOP)](./MyPythonTutorialsPart4(OOP)/) | OOP temel kavramları, encapsulation |
-| **Kalıtım (Inheritance)** | Parent-child classes, super() | [MyPythonTutorialsPart4(OOP)](./MyPythonTutorialsPart4(OOP)/) | Kod yeniden kullanımı, hiyerarşik yapılar |
-| **Polimorfizm** | Method overriding, duck typing | [MyPythonTutorialsPart4(OOP)](./MyPythonTutorialsPart4(OOP)/) | Esnek kod tasarımı, abstract thinking |
+| **Sınıf ve Nesne** | class, __init__, instance variables | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | OOP temel kavramları, encapsulation |
+| **Kalıtım (Inheritance)** | Parent-child classes, super() | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Kod yeniden kullanımı, hiyerarşik yapılar |
+| **Polimorfizm** | Method overriding, duck typing | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Esnek kod tasarımı, abstract thinking |
 
 ### ⚠️ **Hata Yönetimi**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Try-Except** | Exception handling, finally | [MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb](./MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Robust kod yazma, error handling |
-| **Custom Exceptions** | Özel hata sınıfları oluşturma | [MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb](./MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Exception hierarchy, debugging |
+| **Try-Except** | Exception handling, finally | [MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Robust kod yazma, error handling |
+| **Custom Exceptions** | Özel hata sınıfları oluşturma | [MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb](https://github.com/Erkan3034/MyPythonTutorials/blob/main/MyJupyterNotebookNotes/MyPythonNotesPart5(HATALAR_ISTISNALAR).ipynb) | Exception hierarchy, debugging |
 
 ### 📁 **Dosya İşlemleri**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Dosya Okuma/Yazma** | open(), read(), write(), with statement | [MyPythonTutorialsPart8(İleri_Seviye_Veri_Yapıları_ve_Objeler)](./MyPythonTutorialsPart8(İleri_Seviye_Veri_Yapıları_ve_Objeler)/) | File I/O operations, context managers |
-| **CSV İşlemleri** | CSV dosyaları ile çalışma | [PANDAS](./PANDAS/) | Structured data handling |
+| **Dosya Okuma/Yazma** | open(), read(), write(), with statement | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | File I/O operations, context managers |
+| **CSV İşlemleri** | CSV dosyaları ile çalışma | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Structured data handling |
 
 ### 🔢 **İleri Seviye Konular**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **Decorators** | Function decorators, wrapping | [MyPythonTutorialsPart8(İleri_Seviye_Veri_Yapıları_ve_Objeler)](./MyPythonTutorialsPart8(İleri_Seviye_Veri_Yapıları_ve_Objeler)/) | Metaprogramming, design patterns |
-| **Generators** | yield, generator expressions | [MyPythonTutorialsPart10(Pythonda_Decoratorler)](./MyPythonTutorialsPart10(Pythonda_Decoratorler)/) | Memory efficiency, lazy evaluation |
-| **İteratörler** | __iter__, __next__, custom iterators | [MyPythonTutorialsPart11(Pythonda-İteratorler-ve-Generatorler)](./MyPythonTutorialsPart11(Pythonda-İteratorler-ve-Generatorler)/) | Iterator protocol, custom iteration |
+| **Decorators** | Function decorators, wrapping | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Metaprogramming, design patterns |
+| **Generators** | yield, generator expressions | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Memory efficiency, lazy evaluation |
+| **İteratörler** | __iter__, __next__, custom iterators | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Iterator protocol, custom iteration |
 
 ### 📊 **Veri Analizi ve Görselleştirme**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **NumPy** | Numerical computing, arrays | [NUMPY](./NUMPY/) | Scientific computing, array operations |
-| **Pandas** | Data manipulation, DataFrames | [PANDAS](./PANDAS/) | Data analysis, data cleaning |
-| **Matplotlib** | Data visualization, plotting | [MATPLOTLIB](./MATPLOTLIB/) | Chart creation, data visualization |
+| **NumPy** | Numerical computing, arrays | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Scientific computing, array operations |
+| **Pandas** | Data manipulation, DataFrames | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Data analysis, data cleaning |
+| **Matplotlib** | Data visualization, plotting | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Chart creation, data visualization |
 
 ### 🗄️ **Veritabanı İşlemleri**
 
 | Konu | Açıklama | Repo/Link | Edinilen Deneyim |
 |------|----------|-----------|------------------|
-| **SQLite** | Database operations, CRUD | [SqlLite_VeriTabanı](./SqlLite_VeriTabanı/) | Database design, SQL operations |
-| **SQL Sorguları** | SELECT, INSERT, UPDATE, DELETE | [SqlLite_VeriTabanı](./SqlLite_VeriTabanı/) | Database querying, data persistence |
+| **SQLite** | Database operations, CRUD | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Database design, SQL operations |
+| **SQL Sorguları** | SELECT, INSERT, UPDATE, DELETE | [Python Tutorials](https://github.com/Erkan3034/MyPythonTutorials/tree/main/MyPythonTutorials) | Database querying, data persistence |
 
 ---
 
@@ -89,19 +89,19 @@
 ### 1. **Veri Analizi Projeleri**
 - **Açıklama:** Pandas ve NumPy kullanarak veri manipülasyonu ve analizi
 - **Teknolojiler:** Python, Pandas, NumPy, Matplotlib
-- **Repo:** [PANDAS](./PANDAS/) | [NUMPY](./NUMPY/)
+- **Repo:** [Ana Python Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
 - **Öğrenilen:** Data cleaning, statistical analysis, data visualization
 
 ### 2. **Nesne Yönelimli Programlama Projeleri**
 - **Açıklama:** Sınıf tasarımı ve OOP prensipleri uygulaması
 - **Teknolojiler:** Python OOP
-- **Repo:** [MyPythonTutorialsPart4(OOP)](./MyPythonTutorialsPart4(OOP)/)
+- **Repo:** [Ana Python Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
 - **Öğrenilen:** Class design, inheritance, polymorphism
 
 ### 3. **Veritabanı Yönetim Sistemi**
 - **Açıklama:** SQLite ile veritabanı tasarımı ve yönetimi
 - **Teknolojiler:** Python, SQLite
-- **Repo:** [SqlLite_VeriTabanı](./SqlLite_VeriTabanı/)
+- **Repo:** [Ana Python Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
 - **Öğrenilen:** Database design, SQL operations, data persistence
 
 ---
@@ -141,7 +141,7 @@ Bu sertifika aşağıdaki link üzerinden doğrulanabilir:
 ## 📞 **İletişim**
 
 **GitHub:** [Erkan3034](https://github.com/Erkan3034)  
-**Repo:** [MyPythonTutorials](https://github.com/Erkan3034/MyPythonTutorials)
+**Ana Repo:** [MyPythonTutorials](https://github.com/Erkan3034/MyPythonTutorials)
 
 ---
 
