@@ -29,6 +29,7 @@ Selenium, Scrapy ve BeautifulSoup kütüphaneleri ile web scraping ve browser ot
 ### 📊 **Veri Analizi ve Görselleştirme**
 NumPy, Pandas ve Matplotlib kütüphaneleri kullanarak veri analizi, veri temizleme, istatistiksel analiz ve veri görselleştirme konularında yetkinlik geliştirdim. Gerçek veri setleri üzerinde çalışarak, veri odaklı karar verme süreçlerine katkı sağlayacak becerileri edindim.
 
+
 ### 🖥️ **Desktop ve GUI Uygulamaları**
 PyQt5 framework'ü ile cross-platform masaüstü uygulamaları geliştirme yeteneği kazandım. Kullanıcı dostu arayüzler tasarlama ve event-driven programming konularında deneyim sahibi oldum.
 
@@ -40,7 +41,10 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 
 ### 🌐 **Web Geliştirme Projeleri**
 - **Flask ile Kişisel Blog:** Modern ve responsive tasarımla kişisel blog platformu
-- **Django ile Blog-Forum Sitesi:** Kullanıcı yönetimi, yorum sistemi ve admin paneli içeren forum uygulaması
+[Github Adresi]()
+
+- **Django ile Blog-Forum Sitesi:** Kullanıcı yönetimi, yorum sistemi ve admin paneli içeren blog/forum uygulaması
+
 - **Kişisel Portfolio Sitesi:** Profesyonel görünümlü kişisel tanıtım ve proje showcase websitesi
 
 ### 📊 **Veri Analizi ve AI Projeleri**
