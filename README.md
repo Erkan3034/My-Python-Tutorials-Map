@@ -91,27 +91,21 @@ Bu projeler, sadece teknik becerilerimi geliştirmekle kalmayıp, aynı zamanda 
 
 
 
-## 💼 **Profesyonel Gelişim ve Kariyer Etkisi**
+##  **Profesyonel Gelişim ve Kariyer Etkisi**
 
 Bu eğitim programı, Python programlama dilinde sağlam bir temel oluşturmamın yanı sıra, modern yazılım geliştirme süreçlerine hakimiyetimi de artırdı. Özellikle:
 
 - **Full-Stack Development:** Web uygulamalarının frontend'den backend'e kadar tüm katmanlarında çalışabilme yetkinliği
-- **Data Science Fundamentals:** Veri analizi ve görselleştirme konularında temel becerilerin kazanılması
+- **Data Science Fundamentals:** Veri analizi ve görselleştirme konularında  becerilerin kazanılması
 - **Automation Expertise:** Tekrarlayan görevlerin otomasyonu ve web scraping konularında uzmanlaşma
 - **API Development:** RESTful servisler tasarlama ve third-party API'larla entegrasyon deneyimi
 - **Database Management:** İlişkisel veritabanları ile çalışma ve ORM kullanımı
 
-### 🎯 **Hedeflenen Kariyer Alanları**
-Bu kapsamlı eğitim sayesinde aşağıdaki pozisyonlarda çalışmaya hazır duruma geldim:
-- Python Backend Developer
-- Full-Stack Web Developer  
-- Data Analyst / Junior Data Scientist
-- Automation Engineer
-- API Developer
+-**Masaüstü Uygulamalar Geliştirme:** Masaüstü uygulamalar hazırlayıp bunları son kullanıcıya sunma ve geri bildirim alma mekanizması kurma.
 
----
 
-## 🛠️ **Teknoloji Stack'i**
+
+##  **Teknoloji Stack'i**
 
 ### **Core Technologies**
 - **Python 3.x** - Ana programlama dili ve ecosystem
@@ -152,7 +146,7 @@ Bu kapsamlı eğitim sayesinde aşağıdaki pozisyonlarda çalışmaya hazır du
 
 ---
 
-## 🎖️ **Sertifika Doğrulama**
+##  **Sertifika Doğrulama**
 
 Bu sertifika aşağıdaki link üzerinden doğrulanabilir:
 **Sertifika URL:** `ude.my/UC-28d542c9-97bd-4fea-95d2-aa87a0d7d853`
