@@ -153,10 +153,10 @@ Bu sertifika aşağıdaki link üzerinden doğrulanabilir:
 
 ---
 
-## 📞 **İletişim**
+##  **İletişim**
 
 **GitHub:** [Erkan3034](https://github.com/Erkan3034)  
-**Ana Repo:** [MyPythonTutorials](https://github.com/Erkan3034/MyPythonTutorials)
+**LinkedIn** [Linkedin](https://www.linkedin.com/in/erkanturgut1205)
 
 ---
 
