@@ -60,7 +60,6 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 
 
 - **Streamlit Döviz Uygulaması:** Gerçek zamanlı döviz kurları ve interaktif dashboard  
-
 [Github Adresi](https://github.com/Erkan3034/Python_Projects/tree/main/Exchange_App)  
 [Canlı Deneme adresi](https://doviz-info.streamlit.app/)
 
