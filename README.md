@@ -69,14 +69,19 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 [Canlı deneme adresi](https://web-production-d602.up.railway.app/)  
 *Ayrıca geliştirdiğim diğer blog/forum(codenthiablog - kişisel blog) projelerinde de API/Entegrasyon işlemlerine yyer verdim.*  
 
-- **Döviz Çevirici Uygulaması:** Real-time API entegrasyonu ile canlı döviz kuru dönüştürme
+- **Döviz Çevirici Uygulaması:** Real-time API entegrasyonu ile canlı döviz kuru dönüştürme  
+[Github Adresi](https://github.com/Erkan3034/Exchange_App_With_flask-fixer.io)  
 
 ### 🕷️ **Web Scraping ve Otomasyon Projeleri**
-- **Scrapy ile Kitapyurdu Projesi:** E-kitap verilerinin otomatik toplanması ve analizi
+- **Scrapy ile Kitapyurdu Projesi:** E-kitap verilerinin otomatik toplanması ve analizi  
+[Github Adresi](https://github.com/Erkan3034/kitapyurdu.com-project-with-Scrapy/tree/main/projects/kitap_yurdu_project)  
+
 - **Selenium Otomasyon Bots:**
   - Twitter otomatik etkileşim ve veri toplama
   - Instagram profil analizi ve içerik yönetimi
-  - Ekşi Sözlük entry takibi ve analizi
+  - Ekşi Sözlük entry takibi ve analizi  
+
+[Github Adresi](https://github.com/Erkan3034/SELENIUM-projects-exercises-/tree/main/Projects-Exercises)  
 
 ### 🖥️ **Desktop Uygulamaları**
 - **PyQt5 ile Masaüstü Uygulamaları:** Çeşitli utility ve productivity uygulamaları geliştirimi
