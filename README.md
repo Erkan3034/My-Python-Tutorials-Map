@@ -50,7 +50,7 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 [Github Adresi](https://github.com/Erkan3034/codenthia_blog)  
 [Canlı Denem Adresi](https://codenthia-com.onrender.com/)
 
-- **Kişisel Portfolio Sitesi:** Profesyonel görünümlü kişisel tanıtım ve proje showcase websitesi  
+- **Kişisel Portfolio Sitesi:** Profesyonel kişisel tanıtım ve proje showcase websitesi  
 [Github adresi](https://github.com/Erkan3034/personal-portfolio-site)  
 [Canlı Deneme adresi](https://erkanturgut.netlify.app/)
 
