@@ -50,25 +50,24 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 [Github Adresi](https://github.com/Erkan3034/codenthia_blog)  
 [Canlı Denem Adresi](https://codenthia-com.onrender.com/)
 
-- **Kişisel Portfolio Sitesi:** Profesyonel görünümlü kişisel tanıtım ve proje showcase websitesi
-[Github adresi](https://github.com/Erkan3034/personal-portfolio-site)
-
+- **Kişisel Portfolio Sitesi:** Profesyonel görünümlü kişisel tanıtım ve proje showcase websitesi  
+[Github adresi](https://github.com/Erkan3034/personal-portfolio-site)  
 [Canlı Deneme adresi](https://erkanturgut.netlify.app/)
 
 ### 📊 **Veri Analizi ve AI Projeleri**
-- **PulsAI Sağlık Projesi:** NumPy ve Pandas kullanarak sağlık verilerinin analizi ve görselleştirilmesi
+- **PulsAI Sağlık Projesi:** NumPy ve Pandas kullanarak sağlık verilerinin analizi ve görselleştirilmesi  
 [Github Adresi](https://github.com/Erkan3034/PulsAI-Health-Assistant-)
 
 
-- **Streamlit Döviz Uygulaması:** Gerçek zamanlı döviz kurları ve interaktif dashboard
+- **Streamlit Döviz Uygulaması:** Gerçek zamanlı döviz kurları ve interaktif dashboard  
 
-[Github Adresi](https://github.com/Erkan3034/Python_Projects/tree/main/Exchange_App)
+[Github Adresi](https://github.com/Erkan3034/Python_Projects/tree/main/Exchange_App)  
 [Canlı Deneme adresi](https://doviz-info.streamlit.app/)
 
 ### 🔗 **API ve Entegrasyon Projeleri**
-- **Flask REST API ile GitHub User Finder:** GitHub API entegrasyonu ile kullanıcı arama ve profil görüntüleme
+- **Flask REST API ile GitHub User Finder:** GitHub API entegrasyonu ile kullanıcı arama ve profil görüntüleme  
 
-[Github Adresi](https://github.com/Erkan3034/Github_Finder_with_Github_Rest_API)
+[Github Adresi](https://github.com/Erkan3034/Github_Finder_with_Github_Rest_API)  
 
 [Canlı deneme adresi](https://web-production-d602.up.railway.app/)
 
