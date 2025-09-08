@@ -11,14 +11,14 @@
 
 ---
 
-## 🎯 **Kurs Kapsamında Edinilen Yetkinlikler**
+##  **Kurs Kapsamında Edindiğim Yetkinlikler**
 
 Bu kapsamlı Python eğitimi boyunca, sıfırdan başlayarak ileri seviye programlama becerilerine kadar geniş bir yelpazede bilgi ve deneyim kazandım. 42 saatlik bu yoğun eğitim programı, teorik bilginin yanı sıra pratik uygulamalarla desteklenerek, gerçek dünya projelerinde kullanılabilir beceriler geliştirmemi sağladı.
 
-### 📚 **Temel ve İleri Python Programlama**
+###  **Temel ve İleri Python Programlama**
 Python'un temel syntax yapısından başlayarak, nesne yönelimli programlama, hata yönetimi, dosya işlemleri, decorators, generators ve iterators gibi ileri seviye konularda derinlemesine bilgi sahibi oldum. Özellikle kod organizasyonu, modüler programlama ve clean code prensipleri konusunda güçlü bir temel oluşturdum.
 
-[Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
+   [Tutorials Repo](https://github.com/Erkan3034/MyPythonTutorials)
 
 ### 🌐 **Web Geliştirme Uzmanlığı**
 Flask ve Django framework'leri kullanarak full-stack web uygulamaları geliştirme yetkinliği kazandım. RESTful API tasarımı, ORM kullanımı, veritabanı entegrasyonu ve web uygulamalarının production ortamına deploy edilmesi konularında pratik deneyim edindim.
