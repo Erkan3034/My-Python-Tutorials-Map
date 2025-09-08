@@ -83,7 +83,9 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 [Github Adresi](https://github.com/Erkan3034/SELENIUM-projects-exercises-/tree/main/Projects-Exercises)  
 
 ### 🖥️ **Desktop Uygulamaları**
-- **PyQt5 ile Masaüstü Uygulamaları:** Çeşitli utility ve productivity uygulamaları geliştirimi
+- **PyQt5 ile Masaüstü Uygulamaları:** Çeşitli utility ve productivity uygulamaları geliştirimi  
+[Github Adresi](https://github.com/Erkan3034/PyQt5_tutorials-Projects)
+
 
 Bu projeler, sadece teknik becerilerimi geliştirmekle kalmayıp, aynı zamanda problem çözme, proje yönetimi ve kullanıcı deneyimi tasarımı konularında da değerli deneyimler kazanmamı sağladı.
 
