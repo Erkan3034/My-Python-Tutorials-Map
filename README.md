@@ -43,12 +43,11 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 - **Flask ile Kişisel Blog:** Modern ve responsive tasarımla kişisel blog platformu  
 [Github Adresi](https://github.com/Erkan3034/Flask-BlogApp/tree/main)
 
-- **Flask-ORM-SqlAlchemy. ToDoApp** Görev ekleme/silme. Görev durumu görme.
+- **Flask-ORM-SqlAlchemy. ToDoApp** Görev ekleme/silme. Görev durumu görme.  
 [Github Adresi](https://github.com/Erkan3034/TODO-APP-Flask-Orm-SqlAlcahemy-/tree/main)
 
-- **Django ile Blog-Forum Sitesi:** Kullanıcı yönetimi, yorum sistemi ve admin paneli içeren blog/forum uygulaması
-
-[Github Adresi](https://github.com/Erkan3034/codenthia_blog)
+- **Django ile Blog-Forum Sitesi:** Kullanıcı yönetimi, yorum sistemi ve admin paneli içeren blog/forum uygulaması.  
+[Github Adresi](https://github.com/Erkan3034/codenthia_blog)  
 [Canlı Denem Adresi](https://codenthia-com.onrender.com/)
 
 - **Kişisel Portfolio Sitesi:** Profesyonel görünümlü kişisel tanıtım ve proje showcase websitesi
