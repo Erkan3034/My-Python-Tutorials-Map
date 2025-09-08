@@ -40,7 +40,7 @@ PyQt5 framework'ü ile cross-platform masaüstü uygulamaları geliştirme yeten
 Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsamlı projeler geliştirdim:
 
 ### 🌐 **Web Geliştirme Projeleri**
-- **Flask ile Kişisel Blog:** Modern ve responsive tasarımla kişisel blog platformu
+- **Flask ile Kişisel Blog:** Modern ve responsive tasarımla kişisel blog platformu  
 [Github Adresi](https://github.com/Erkan3034/Flask-BlogApp/tree/main)
 
 - **Flask-ORM-SqlAlchemy. ToDoApp** Görev ekleme/silme. Görev durumu görme.
