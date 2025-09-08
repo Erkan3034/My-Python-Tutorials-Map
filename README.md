@@ -65,10 +65,9 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
 
 ### 🔗 **API ve Entegrasyon Projeleri**
 - **Flask REST API ile GitHub User Finder:** GitHub API entegrasyonu ile kullanıcı arama ve profil görüntüleme  
-
 [Github Adresi](https://github.com/Erkan3034/Github_Finder_with_Github_Rest_API)  
-
-[Canlı deneme adresi](https://web-production-d602.up.railway.app/)
+[Canlı deneme adresi](https://web-production-d602.up.railway.app/)  
+*Ayrıca geliştirdiğim diğer blog/forum(codenthiablog - kişisel blog) projelerinde de API/Entegrasyon işlemlerine yyer verdim.*  
 
 - **Döviz Çevirici Uygulaması:** Real-time API entegrasyonu ile canlı döviz kuru dönüştürme
 
