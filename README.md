@@ -80,7 +80,6 @@ Kurs boyunca edindiğim bilgileri pratiğe dökerek, çeşitli alanlarda kapsaml
   - Twitter otomatik etkileşim ve veri toplama
   - Instagram profil analizi ve içerik yönetimi
   - Ekşi Sözlük entry takibi ve analizi  
-
 [Github Adresi](https://github.com/Erkan3034/SELENIUM-projects-exercises-/tree/main/Projects-Exercises)  
 
 ### 🖥️ **Desktop Uygulamaları**
